@@ -1,5 +1,5 @@
 # Employee Manager
-Simple app for adding, editing and removing various types of employees.
+Full stack application for managing employees. Based on Angular, Spring Boot and MySQL.
 
 # Demo
 ![](/demo/demo1.JPG)
