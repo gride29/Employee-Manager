@@ -1,5 +1,5 @@
-# Manager Pracownikow
-Core purpose of this project was to practice development of web applications using Angular and Spring Boot frameworks.
+# Manager Pracowników
+Simple app for managing various types of employees.
 
 # Demo
 ![](/demo/demo1.JPG)
@@ -9,9 +9,11 @@ Core purpose of this project was to practice development of web applications usi
 ![](/demo/demo5.JPG)
 
 # Tech Stack
-- Angular 
+- TypeScript
+- Java
+- HTML
+- CSS 
+- Angular
 - Spring Boot
-- MySQL 
-
-
-
+- Bootstrap
+- MySQL
