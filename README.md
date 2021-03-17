@@ -1,4 +1,4 @@
-# Manager Pracowników
+# Employee Manager
 Simple app for adding, editing and removing various types of employees.
 
 # Demo
