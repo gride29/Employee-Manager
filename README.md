@@ -1,5 +1,5 @@
 # Manager Pracowników
-Simple app for managing various types of employees.
+Simple app for adding, editing and removing various types of employees.
 
 # Demo
 ![](/demo/demo1.JPG)
@@ -9,11 +9,6 @@ Simple app for managing various types of employees.
 ![](/demo/demo5.JPG)
 
 # Tech Stack
-- TypeScript
-- Java
-- HTML
-- CSS 
-- Angular
+- Angular 
 - Spring Boot
-- Bootstrap
 - MySQL
