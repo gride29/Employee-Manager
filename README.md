@@ -1,5 +1,5 @@
 # Employee Manager
-Full stack application for managing employees. Based on Angular, Spring Boot and MySQL.
+Simple CRUD app for managing employees. Based on Angular, Spring Boot and MySQL.
 
 # Demo
 ![](/demo/demo1.JPG)
